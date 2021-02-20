@@ -1,0 +1,11 @@
+2020-02-20  Ashen Gunaratne  <mail@ashenm.ml>
+
+    * api/upload.php: Set JSON MIME in response header
+
+2020-02-20  Ashen Gunaratne  <mail@ashenm.ml>
+
+    * api/upload.php: Standardise reposes in JSON
+
+2020-02-20  Ashen Gunaratne  <mail@ashenm.ml>
+
+    * Initial commit
